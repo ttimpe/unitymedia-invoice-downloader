@@ -5,7 +5,7 @@ This scripts allows business customers of the German cable TV/internet provider 
 ## Usage
 Place a file called login.txt containing your login credentials into the same directory as the script as follows:
 
-USERNAME
+USERNAME  
 PASSWORD
 
 Then the script will automatically read the login credentials from the file and use the python request module for making the HTTPrequests neccessary to download the latest invoice and save it in a file called YYYY-MM.pdf

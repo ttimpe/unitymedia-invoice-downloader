@@ -8,7 +8,7 @@ Place a file called login.txt containing your login credentials into the same di
 USERNAME  
 PASSWORD
 
-Then the script will automatically read the login credentials from the file and use the python request module for making the HTTPrequests neccessary to download the latest invoice and save it in a file called YYYY-MM.pdf
+Then the script will automatically read the login credentials from the file and use the python requests module for making the HTTP requests neccessary to download the latest invoice and save it in a file called YYYY-MM.pdf
 
 ## Caution
 
